@@ -155,7 +155,7 @@ ORGANISATION_ADDRESS = {"name":"Solawisi",
             "number" : "21",
             "zip" : "8542",
             "city" : "Wiesendangen",
-            "extra" : "-"}
+            "extra" : "c/o Monika Steiner"}
 ORGANISATION_BANK_CONNECTION = {"PC" : "-",
             "IBAN" : "CH95 0839 0037 1022 1000 0",
             "BIC" : "-",
