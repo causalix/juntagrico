@@ -162,7 +162,7 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "-",
             "NAME" : "Alternative Bank",
             "ESR" : ""}
 INFO_EMAIL = "solawisi@gmx.ch"
-SERVER_URL = "www.solawisi.org"
+SERVER_URL = "www.solawisi.ch"
 ADMINPORTAL_NAME = "my.solawisi.ch"
 ADMINPORTAL_SERVER_URL = "https://my.solawisi.ch"
 SHARE_PRICE = "250"
