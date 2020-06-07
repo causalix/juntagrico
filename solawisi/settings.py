@@ -161,9 +161,10 @@ ORGANISATION_BANK_CONNECTION = {"PC" : "-",
             "BIC" : "-",
             "NAME" : "Alternative Bank",
             "ESR" : ""}
-INFO_EMAIL = "solawisi@gmx.ch"
+INFO_EMAIL = "kontakt@solawisi.ch"
 SERVER_URL = "www.solawisi.ch"
 ADMINPORTAL_NAME = "my.solawisi.ch"
 ADMINPORTAL_SERVER_URL = "https://my.solawisi.ch"
 SHARE_PRICE = "250"
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
+TIME_ZONE = 'Europe/Zurich'
