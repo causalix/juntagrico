@@ -1,0 +1,8 @@
+.juntagrico_logo {
+    background: url(/static/img/logo_solawisi_breit.webp) center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
