@@ -175,3 +175,5 @@ BYLAWS = "https://doc.solawisi.ch/Statuten_SolawiS%C3%AD.pdf"
 BUSINESS_REGULATIONS = "https://doc.solawisi.ch/Betriebsreglement_SolawiSi.pdf"
 
 STYLE_SHEET = "/static/css/solawisi.css"
+
+EMAILS = {'welcome': 'sola-mails/member_welcome.txt'}
