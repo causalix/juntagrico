@@ -177,3 +177,5 @@ BUSINESS_REGULATIONS = "https://doc.solawisi.ch/Betriebsreglement_SolawiSi.pdf"
 STYLE_SHEET = "/static/css/solawisi.css"
 
 EMAILS = {'welcome': 'sola-mails/sola-member_welcome.txt'}
+
+ASSIGNMENT_UNIT = "HOURS"

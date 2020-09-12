@@ -1,4 +1,4 @@
 juntagrico==1.2.2
 gunicorn==20.0.4
-git+https://github.com/juntagrico/juntagrico.git
+git+https://github.com/juntagrico/juntagrico.git@patch
 psycopg2==2.8.4
